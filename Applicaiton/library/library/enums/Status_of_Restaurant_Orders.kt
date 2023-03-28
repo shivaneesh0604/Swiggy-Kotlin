@@ -1,0 +1,11 @@
+package library.enums
+
+enum class Status_of_Restaurant_Orders {
+    ORDER_ADDED,
+    ANOTHER_ORDER_ADDED_IN_A_RESTAURANT,
+    CHANGED_QUANTITY,
+    TOTALLY_DELETED,
+    CANT_DELETE,
+    NO_ORDER_FOUND,
+    NO_ORDER_FOUND_IN_THIS_RESTAURANT
+}

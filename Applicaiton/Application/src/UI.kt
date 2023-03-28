@@ -1,0 +1,4 @@
+interface UI {
+
+    fun entersUI()
+}
